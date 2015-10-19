@@ -1,6 +1,5 @@
 Library/
 Temp/
-build/
 *.sln
 *.csproj
 *.sln
